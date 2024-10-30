@@ -2,7 +2,7 @@
 
 Hi, I'm Katie! I have a software engineering background and am currently working toward my Master's degree in data analytics. Welcome to my Machine Learning project repository. In this repository, you'll find a collection of projects that showcase various machine learning techniques and models I have applied throughout my studies. I have built a strong foundation in both regression and classification methods, experimenting with diverse models for predictive analysis.
 
-I'm excited to expand this repository as I continue to broaden my knowledge and skills in this exciting field.
+I'm excited to expand this repository as I continue to broaden my knowledge and skills in this field!
 
 ## Project Overviews
 
