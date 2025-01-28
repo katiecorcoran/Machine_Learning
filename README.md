@@ -32,3 +32,12 @@ KNN Regression: I predicted the total count of bike rentals using KNN regression
 
 KNN Classification: I also addressed the challenge of bike overload by creating a binary classification model. I defined an overload variable (1 if rentals > 500, otherwise 0) to analyze system efficiency. The model was trained to classify periods of overload, generating predicted probabilities and classifications based on different thresholds.
 
+### Bagging/Boosting on Bikeshare Data
+Built regression and classification models for bike rental demand using bagging and boosting algorithms. Explored the effects of hyperparameter tuning and compared the performance of algorithms like Random Forests and Gradient Boosting to identify the best approach for the dataset.
+
+### PCA on Mall Customers Data
+Analyzed customer spending data by applying Principal Component Analysis to reduce dimensionality and identify meaningful patterns. Segmented customers into clusters based on spending habits and demographic data.
+
+### Housing Prices with PyCaret
+Developed a regression model to predict housing prices by leveraging PyCaret’s automated machine learning workflow. Performed feature engineering, trained and evaluated multiple models, and selected the top-performing one based on metrics like RMSE. Delivered insights on model interpretability and factors driving housing prices.
+
